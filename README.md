@@ -26,4 +26,4 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Country Analysis
 
 ## Author
-Your Name
+Pragathi M C
